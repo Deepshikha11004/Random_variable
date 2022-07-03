@@ -36,8 +36,8 @@ plt.legend(["Simulation", "Analysis"])
 
 
 #if using termux
-plt.savefig('/home/deepshikha/gvv_randomvariable/figs/uni_cdf.pdf')
-plt.savefig('/home/deepshikha/gvv_randomvariable/figs/uni_cdf.eps')
+plt.savefig('../figs/uni_cdf.pdf')
+plt.savefig('../figs/uni_cdf.eps')
 #subprocess.run(shlex.split("termux-open ../figs/uni_cdf.pdf"))
 #if using termux
 #plt.savefig('../figs/gauss_cdf.pdf')

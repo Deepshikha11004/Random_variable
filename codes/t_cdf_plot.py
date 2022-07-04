@@ -19,5 +19,5 @@ plt.xlabel('$x$')
 plt.ylabel('$F_T(x)$')
 
 #if using termux
-plt.savefig('../figs/tri_cdf.pdf')
-plt.savefig('../figs/tri_cdf.eps')
+plt.savefig('/home/deepshikha/gvv_randomvariable/figs/tri_cdf.pdf')
+plt.savefig('/home/deepshikha/gvv_randomvariable/figs/tri_cdf.eps')
